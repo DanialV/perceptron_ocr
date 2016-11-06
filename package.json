@@ -1,0 +1,18 @@
+{
+  "name": "pnn",
+  "version": "1.0.0",
+  "description": "Simple perceptron neural network with train and test function",
+  "main": "PNN.js",
+  "dependencies": {
+    "async": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node Train.js"
+  },
+  "keywords": [
+    "pnn"
+  ],
+  "author": "Danial Vafadar|daniel.vafadar@gmail.com",
+  "license": "ISC"
+}
